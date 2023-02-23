@@ -1,0 +1,166 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/anthony.paes/src/scratch/iplocator-refactoring-codekata/IPLocatorTests/IPLocatorTests.csproj": {}
+  },
+  "projects": {
+    "/Users/anthony.paes/src/scratch/iplocator-refactoring-codekata/IPLocator/IPLocator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/anthony.paes/src/scratch/iplocator-refactoring-codekata/IPLocator/IPLocator.csproj",
+        "projectName": "IPLocator",
+        "projectPath": "/Users/anthony.paes/src/scratch/iplocator-refactoring-codekata/IPLocator/IPLocator.csproj",
+        "packagesPath": "/Users/anthony.paes/.nuget/packages/",
+        "outputPath": "/Users/anthony.paes/src/scratch/iplocator-refactoring-codekata/IPLocator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/anthony.paes/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/anthony.paes/src/scratch/iplocator-refactoring-codekata/IPLocatorTests/IPLocatorTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/anthony.paes/src/scratch/iplocator-refactoring-codekata/IPLocatorTests/IPLocatorTests.csproj",
+        "projectName": "IPLocatorTests",
+        "projectPath": "/Users/anthony.paes/src/scratch/iplocator-refactoring-codekata/IPLocatorTests/IPLocatorTests.csproj",
+        "packagesPath": "/Users/anthony.paes/.nuget/packages/",
+        "outputPath": "/Users/anthony.paes/src/scratch/iplocator-refactoring-codekata/IPLocatorTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/anthony.paes/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/anthony.paes/src/scratch/iplocator-refactoring-codekata/IPLocator/IPLocator.csproj": {
+                "projectPath": "/Users/anthony.paes/src/scratch/iplocator-refactoring-codekata/IPLocator/IPLocator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

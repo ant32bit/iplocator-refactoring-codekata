@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPLocator", "IPLocator\IPLocator.csproj", "{DF3B5968-9350-4114-B1FD-213C6BF0C6BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPLocatorTests", "IPLocatorTests\IPLocatorTests.csproj", "{BC707D59-C451-449B-9DF4-8F1782F288C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF3B5968-9350-4114-B1FD-213C6BF0C6BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF3B5968-9350-4114-B1FD-213C6BF0C6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF3B5968-9350-4114-B1FD-213C6BF0C6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF3B5968-9350-4114-B1FD-213C6BF0C6BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC707D59-C451-449B-9DF4-8F1782F288C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC707D59-C451-449B-9DF4-8F1782F288C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC707D59-C451-449B-9DF4-8F1782F288C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC707D59-C451-449B-9DF4-8F1782F288C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
