@@ -31,7 +31,7 @@ public class IpApiServiceTests
     }
     
     [Test, Category("IP API Service")]
-    public async Task ReservedIp_ThrowsApiException()
+    public void ReservedIp_ThrowsApiException()
     {
         var reservedIp = new IpAddress("127.0.0.1");
         var settings = Options.Create(new ApiSettings
@@ -48,7 +48,7 @@ public class IpApiServiceTests
     }
     
     [Test, Category("IP API Service")]
-    public async Task ServiceDown_ThrowsApiException()
+    public void ServiceDown_ThrowsApiException()
     {
         var reservedIp = new IpAddress("147.161.212.100");
         var settings = Options.Create(new ApiSettings

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JyOdigJFxKoKqLRUDddmRs0IPJZqxVRpchMRiEtFJk0PH+sB6glyMllILvkGeCjHKO161yUPP/hRSXWxw6sSWw==",
+  "dgSpecHash": "dFH/IStcvf7Be1VWIY0DeiNzZDmfPTEuUZ4qL5bbmZcgJ6u+cdMKyEPIj/7VnYwecZ1uFx+FnXs53WPtt7h95A==",
   "success": true,
-  "projectFilePath": "/Users/anthony.paes/src/scratch/iplocator-refactoring-codekata/IPLocator/IPLocator.csproj",
+  "projectFilePath": "/Users/anthony.paes/src/iplocator-refactoring-codekata/IPLocator/IPLocator.csproj",
   "expectedPackageFiles": [
     "/Users/anthony.paes/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "/Users/anthony.paes/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

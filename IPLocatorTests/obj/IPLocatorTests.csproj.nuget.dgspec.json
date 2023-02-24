@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anthony.paes/src/scratch/iplocator-refactoring-codekata/IPLocatorTests/IPLocatorTests.csproj": {}
+    "/Users/anthony.paes/src/iplocator-refactoring-codekata/IPLocatorTests/IPLocatorTests.csproj": {}
   },
   "projects": {
-    "/Users/anthony.paes/src/scratch/iplocator-refactoring-codekata/IPLocator/IPLocator.csproj": {
+    "/Users/anthony.paes/src/iplocator-refactoring-codekata/IPLocator/IPLocator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anthony.paes/src/scratch/iplocator-refactoring-codekata/IPLocator/IPLocator.csproj",
+        "projectUniqueName": "/Users/anthony.paes/src/iplocator-refactoring-codekata/IPLocator/IPLocator.csproj",
         "projectName": "IPLocator",
-        "projectPath": "/Users/anthony.paes/src/scratch/iplocator-refactoring-codekata/IPLocator/IPLocator.csproj",
+        "projectPath": "/Users/anthony.paes/src/iplocator-refactoring-codekata/IPLocator/IPLocator.csproj",
         "packagesPath": "/Users/anthony.paes/.nuget/packages/",
-        "outputPath": "/Users/anthony.paes/src/scratch/iplocator-refactoring-codekata/IPLocator/obj/",
+        "outputPath": "/Users/anthony.paes/src/iplocator-refactoring-codekata/IPLocator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/anthony.paes/.nuget/NuGet/NuGet.Config"
@@ -75,18 +75,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.406/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/anthony.paes/src/scratch/iplocator-refactoring-codekata/IPLocatorTests/IPLocatorTests.csproj": {
+    "/Users/anthony.paes/src/iplocator-refactoring-codekata/IPLocatorTests/IPLocatorTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anthony.paes/src/scratch/iplocator-refactoring-codekata/IPLocatorTests/IPLocatorTests.csproj",
+        "projectUniqueName": "/Users/anthony.paes/src/iplocator-refactoring-codekata/IPLocatorTests/IPLocatorTests.csproj",
         "projectName": "IPLocatorTests",
-        "projectPath": "/Users/anthony.paes/src/scratch/iplocator-refactoring-codekata/IPLocatorTests/IPLocatorTests.csproj",
+        "projectPath": "/Users/anthony.paes/src/iplocator-refactoring-codekata/IPLocatorTests/IPLocatorTests.csproj",
         "packagesPath": "/Users/anthony.paes/.nuget/packages/",
-        "outputPath": "/Users/anthony.paes/src/scratch/iplocator-refactoring-codekata/IPLocatorTests/obj/",
+        "outputPath": "/Users/anthony.paes/src/iplocator-refactoring-codekata/IPLocatorTests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/anthony.paes/.nuget/NuGet/NuGet.Config"
@@ -101,8 +101,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/anthony.paes/src/scratch/iplocator-refactoring-codekata/IPLocator/IPLocator.csproj": {
-                "projectPath": "/Users/anthony.paes/src/scratch/iplocator-refactoring-codekata/IPLocator/IPLocator.csproj"
+              "/Users/anthony.paes/src/iplocator-refactoring-codekata/IPLocator/IPLocator.csproj": {
+                "projectPath": "/Users/anthony.paes/src/iplocator-refactoring-codekata/IPLocator/IPLocator.csproj"
               }
             }
           }
@@ -158,7 +158,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.406/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WublNverbgcIpTb15QUMhpRzaee+6DptJDd57KFVE8+X+WccbOJhJmUzFQ1Yx1rexZk43vOt05f1uQhIQo1tUQ==",
+  "dgSpecHash": "L1grc0V0UB/8akg4cw/bEY6JcWSQwSNx9YqukkQHoN4iuU5N4ELqAmJkeEq4WjdTu2orn2GrAygoDkyVEGyr0g==",
   "success": true,
-  "projectFilePath": "/Users/anthony.paes/src/scratch/iplocator-refactoring-codekata/IPLocatorTests/IPLocatorTests.csproj",
+  "projectFilePath": "/Users/anthony.paes/src/iplocator-refactoring-codekata/IPLocatorTests/IPLocatorTests.csproj",
   "expectedPackageFiles": [
     "/Users/anthony.paes/.nuget/packages/castle.core/5.0.0/castle.core.5.0.0.nupkg.sha512",
     "/Users/anthony.paes/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",

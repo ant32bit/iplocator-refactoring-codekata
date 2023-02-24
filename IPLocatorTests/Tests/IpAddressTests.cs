@@ -96,8 +96,8 @@ public class IpAddressTests
 
     public static object[] ValidIps =
     {
-        new object[] {"127.0.0.1", (uint)0x7f000001, 127, 0, 0, 1},
-        new object[] {"255.255.255.255", 0xffffffff, 255, 255, 255, 255}
+        new object[] {"127.0.0.1", (uint)0x7f000001, (byte)127, (byte)0, (byte)0, (byte)1},
+        new object[] {"255.255.255.255", (uint)0xffffffff, (byte)255, (byte)255, (byte)255, (byte)255}
     };
 
     public static object[] InvalidIps =

@@ -77,14 +77,14 @@ public class IpMaskTests
         Assert.That(maskA.Equals(objB), Is.False);
     }
 
-    public static object[] DifferentIpAddresses =
+    public static object?[] DifferentIpAddresses =
     {
         new object[] { new IpMask("127.0.0.0/8"), new IpMask("127.0.0.0/16") },
         new object[] { new IpMask("127.0.0.0/16"), new IpMask("127.0.0.0/24") },
         new object[] { new IpMask("127.0.0.0/8"), new IpMask("192.168.0.0/8") },
         new object[] { new IpMask("0.127.0.0/16"), new IpMask("127.0.0.0/8") },
         new object[] { new IpMask("127.0.0.0/0"), new IpAddress("127.0.0.0") },
-        new object[] { new IpMask("127.0.0.0/8"), null },
+        new object?[] { new IpMask("127.0.0.0/8"), (object)null },
         new object[] { new IpMask("127.0.0.0/8"), "127.0.0.0/8" }
     };
 }
